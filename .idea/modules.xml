@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AdventureRandom.iml" filepath="$PROJECT_DIR$/AdventureRandom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InputOutputNIO.iml" filepath="$PROJECT_DIR$/InputOutputNIO.iml" />
     </modules>
   </component>
 </project>
